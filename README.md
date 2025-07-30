@@ -1,5 +1,8 @@
 # Feel Good Spas Business Intelligence Solution
 
+Live demo Link for the project:
+https://919a0ab1-c5ee-41d2-b93b-c977ccff0d9d-00-oa99cwtaww5v.riker.replit.dev
+
 A comprehensive business intelligence platform that transforms conversational data (vCon format) into actionable insights for spa management through advanced analytics, real-time monitoring, and AI-driven performance optimization.
 
 ## 🎯 Project Overview
